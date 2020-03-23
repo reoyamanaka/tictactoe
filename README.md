@@ -103,4 +103,4 @@ Distributed under the GNU Affero General Public License v3.0 License. See `LICEN
 
 Reo Yamanaka - [LinkedIn](https://www.linkedin.com/in/reo-yamanaka-7a2289119/) - [My YouTube channel](https://www.youtube.com/channel/UCBwqp_MEM2XcSnq7kRvOB3A) - ryamanaka807@gmail.com
 
-Project Link: [https://github.com/ryamanaka/tictactoe](https://github.com/ryamanaka/tictactoe)
+Project Link: [https://github.com/ryamanaka/tictactoe](https://github.com/ryamanaka/tictactoe.git)
