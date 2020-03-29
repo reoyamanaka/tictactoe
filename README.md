@@ -40,7 +40,7 @@
 
 ## About The Project
 
-<img src="images/demo_screenshot0.png" width="260" height="266">   <img src="images/demo_screenshot1.png" width="260" height="266">   <img src="images/demo_screenshot2.png" width="280" height="266">
+<img src="images/demo_screenshot0.png" width="773" height="261">
 
 ### Built With
 
