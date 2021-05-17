@@ -70,14 +70,11 @@ pip install pandas
 ```sh
 git clone https://github.com/reoyamanaka/tictactoe.git
 ```
-2. Install wxPython module
+2. Install requirements
 ```sh
-pip install wxpython
+pip install -r requirements.txt
 ```
-3. Install pandas module
-```sh
-pip install pandas
-```
+
 
 ## Usage
 
